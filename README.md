@@ -28,7 +28,7 @@ These notebooks contain standalone Python implementations of each algorithm, com
 
 * **`Adam-implementation.ipynb`**: Implements the ADAM (Adaptive Moment Estimation) optimizer. This notebook includes the standard ADAM algorithm as well as the **Yogi** improvement, which helps control the second-moment estimate for more stable training.
 
-* **`EMA-implementation.ipynb`**: Contains a class for Exponential Moving Average (EMA). EMA is a key statistical method used in optimizers like ADAM to smooth out gradient updates by giving more weight to recent data points.
+* **`EMA_class.py`**: A class for Exponential Moving Average (EMA). EMA is a key statistical method used in optimizers like ADAM to smooth out gradient updates by giving more weight to recent data points.
 
 ---
 ## ✨ Covered Algorithms
